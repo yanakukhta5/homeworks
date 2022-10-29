@@ -1,0 +1,23 @@
+#myDiv, #myTextarea {
+ width: 400px;
+ height: 300px;
+}
+#myDiv{
+ margin-top: 300px;
+ border: 1px salmon solid;
+}
+#myTextarea {
+ border: 1px green solid;
+}
+
+.before, .after {
+ float: left;
+ width: 60px;
+ margin-right: 50px;
+}
+.before {
+ background-color: green;
+}
+.after{
+ background-color: red;
+}
